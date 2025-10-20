@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+}
+/* h1{
+    text-align: center;
+} */
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(149, 59%, 50%);
+    padding: 5px;
+    margin:0px;
+    overflow:hidden;
+
+}
+
+.navbar a{
+    font-size: 20px;
+    color:rgb(242, 231, 231);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(149, 59%, 10%);
+}
+
+.navbar li{
+    float: left;
+}
+
+
+
+
+
+/* text color  */
+h3{
+    color: hsl(0, 52%, 49%);
+}
+p{
+    text-align: justify;
+}
+
+#profilePic{
+    text-align: center;
+}
